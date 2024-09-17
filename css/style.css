@@ -1,0 +1,167 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color:#282546 ;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    margin-top:-40px ;
+    
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+    font-size: 60px;
+    
+    font-family: "Galindo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+      
+}
+body{
+    background-color:#e5d6ed ;
+    
+}
+main{
+    background-color:#e5d6ed ;
+    padding: 50px;
+    margin-top: 40px;
+    width: 60%;
+    margin-left: 17.5%;
+    
+   
+}
+
+img{
+    width: 100%;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+h2{
+    font-size: 80px;
+    margin-bottom: 40px;
+    
+    font-family: "Kolker Brush", cursive;
+    font-weight: 400;
+    font-style: normal;
+      
+      
+}
+
+.containner--paris{
+    background-color: #A59CE9;
+    padding: 40px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+}
+
+.containner--pontos{
+    background-color: #A59CE9;
+    padding: 40px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+}
+
+.containner--viagem{
+    background-color: #A59CE9;
+    padding: 40px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+}
+
+h3{
+    font-size: 25px;
+    border-bottom: 2px #000 solid;
+    padding-bottom: 20px;
+    font-family: "Galindo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+
+}
+
+ul{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: "Galindo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p{
+    margin-top: 20px;
+    font-family: "Galindo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+footer{
+    background-color:#282546 ;
+    padding: 20px;
+    text-align: center;
+
+    
+}
+
+.text{
+    color: white;
+    font-size: 12px;
+}
+
+@media screen and (max-width: 768px) {
+
+h1{
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+        
+    font-family: "Galindo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+        
+          
+}
+
+h2{
+        font-size: 60px;
+        margin-bottom: 40px;
+        
+        font-family: "Kolker Brush", cursive;
+        font-weight: 400;
+        font-style: normal;
+          
+          
+    }
+h3{
+        font-size: 20px;
+        margin-bottom: 40px;
+        
+        font-family: "Galindo", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+p{
+    font-size: 12px;
+    margin-bottom: 40px;
+    
+    font-family: "Galindo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+ul{
+    font-size: 12px;
+    margin-bottom: 40px;
+    
+    font-family: "Galindo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+}
